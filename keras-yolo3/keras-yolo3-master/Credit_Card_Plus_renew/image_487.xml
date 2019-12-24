@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>card</folder>
+	<filename>image_487.jpg</filename>
+	<path>D:\card\image_487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>credit_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>57</ymin>
+			<xmax>265</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

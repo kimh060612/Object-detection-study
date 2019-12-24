@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>son</folder>
+	<filename>image_2446.jpg</filename>
+	<path>C:\Users\seongjun\Desktop\경희대\대학 수업\소프트웨어융합개론\carddata_for_DeepLearning\son\image_2446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>credit_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>93</ymin>
+			<xmax>169</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

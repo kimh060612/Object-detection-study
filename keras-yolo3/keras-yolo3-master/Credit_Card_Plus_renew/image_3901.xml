@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Credit_Card_Plus_renew</folder>
+	<filename>image_3901.jpg</filename>
+	<path>C:\Users\seongjun\Desktop\경희대\대학 수업\소프트웨어융합개론\carddata_for_DeepLearning\Credit_Card_Plus_renew\image_3901.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>credit_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>117</ymin>
+			<xmax>369</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

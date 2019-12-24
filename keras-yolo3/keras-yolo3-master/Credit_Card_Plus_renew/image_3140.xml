@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>kim</folder>
+	<filename>image_3140.jpg</filename>
+	<path>C:\Users\seongjun\Desktop\경희대\대학 수업\소프트웨어융합개론\carddata_for_DeepLearning\kim\image_3140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>credit_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>244</ymin>
+			<xmax>257</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

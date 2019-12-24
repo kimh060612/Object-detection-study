@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>credit_card_renew_choi</folder>
+	<filename>image_1218.jpg</filename>
+	<path>C:\Users\seongjun\Desktop\경희대\대학 수업\소프트웨어융합개론\card_for_DeepLearning\credit_card_renew_choi\image_1218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>credit_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>230</ymin>
+			<xmax>241</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
